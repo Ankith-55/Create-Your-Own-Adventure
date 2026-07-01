@@ -1,4 +1,4 @@
-# 📖 AI Story Generator
+# 📖 StoryForge - AI Story Generator
 
 An interactive, AI-powered choose-your-own-adventure story generator. Enter a theme, and the app generates a branching narrative using GPT-4 — complete with choices that lead to different endings.
 
